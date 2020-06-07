@@ -57,4 +57,4 @@ Consumindo [api]() com o database sqlite
 
 ## License
 
-[MIT](https://github.com/luanribeiros/ecoleta/blob/master/LICENSE.md) &copy; Luan Ribeiro
+[MIT](https://github.com/luanribeiros/ecoleta-api/blob/master/LICENSE.md) &copy; Luan Ribeiro

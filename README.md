@@ -1,12 +1,8 @@
-<h3 align="center">
-    <img alt="Logo Ecoleta" title="Logo Ecoleta" src="./src/assets/images/logo.svg">
-</h3>
+![Logomarca Ecoleta](./src/assets/images/logo.svg)
 
-<p align="center">
-[![Build Status](https://img.shields.io/travis/npm/npm/latest.svg?style=flat-square)] (https://travis-ci.org/npm/npm) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/your/your-project/blob/master/LICENSE)
-</p>
+[![Build Status](https://img.shields.io/travis/npm/npm/latest.svg?style=flat-square)](https://travis-ci.org/npm/npm) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/your/your-project/blob/master/LICENSE)
 
-## O **Ecoleta** é uma aplicação Web e Mobile para ajudar pessoas a encontrarem pontos de coleta para reciclagem.
+### O **Ecoleta** é uma aplicação Web e Mobile para ajudar pessoas a encontrarem pontos de coleta para reciclagem.
 
 Essa aplicação foi construída na trilha **Booster** da **Next Level Week** distribuída pela **[Rocketseat](https://rocketseat.com.br/)** :rocket: . A ideia de criar uma aplicação voltada ao meio ambiente surgiu da coincidência da data do curso e a data da semana do meio ambiente.
 

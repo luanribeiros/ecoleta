@@ -2,6 +2,8 @@
 
 [![Build Status](https://img.shields.io/travis/npm/npm/latest.svg?style=flat-square)](https://travis-ci.org/npm/npm) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/your/your-project/blob/master/LICENSE)
 
+![Imagem Home](./.github/home.png)
+
 ### O **Ecoleta** é uma aplicação Web e Mobile para ajudar pessoas a encontrarem pontos de coleta para reciclagem.
 
 Essa aplicação foi construída na trilha **Booster** da **Next Level Week** distribuída pela **[Rocketseat](https://rocketseat.com.br/)** :rocket: . A ideia de criar uma aplicação voltada ao meio ambiente surgiu da coincidência da data do curso e a data da semana do meio ambiente.
@@ -9,8 +11,6 @@ Essa aplicação foi construída na trilha **Booster** da **Next Level Week** di
 Recicle! O meio ambiente agradece! ♻️
 
 > Encontre a **Api** desta aplicação [aqui](https://github.com/luanribeiros/ecoleta-api) e o **Mobile** [aqui](https://github.com/luanribeiros/ecoleta-mobile)
-
-![Imagem Home](./.github/home.png)
 
 Tecnologias utilizadas:
 

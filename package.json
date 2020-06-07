@@ -9,7 +9,6 @@
   "scripts": {
     "start": "webpack-dashboard -- webpack-dev-server --config webpack/dev.config.js --open",
     "build": "cross-env webpack-dashboard -- webpack --config webpack/prod.config.js",
-    "analyzer": "webpack --json > stats.json && webpack-bundle-analyzer stats.json",
     "help": "webpack-dev-server -h"
   },
   "husky": {
@@ -89,7 +88,6 @@
     "typescript": "3.8.3",
     "url-loader": "4.0.0",
     "webpack": "4.42.1",
-    "webpack-bundle-analyzer": "3.6.1",
     "webpack-cli": "3.3.11",
     "webpack-dashboard": "3.2.0",
     "webpack-dev-server": "3.10.3",

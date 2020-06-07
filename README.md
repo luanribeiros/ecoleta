@@ -8,13 +8,13 @@ Essa aplicação foi construída na trilha **Booster** da **Next Level Week** di
 
 Recicle! O meio ambiente agradece! ♻️
 
-> Encontre a api desta aplicação [aqui]() e o mobile [aqui]()
-
-## Installing / Getting started
+> Encontre a **Api** desta aplicação [aqui](https://github.com/luanribeiros/ecoleta-api) e o **Mobile** [aqui]()
 
 Tecnologias utilizadas:
 
-- A trilha utilizou create-react-app, mas eu usei o Wepack 4+, só a nível de treino e estudos mesmo, configurado do zero **_(Extra)_**:
+- A trilha utilizou create-react-app, mas eu usei o Wepack 4+ and Webpack Dashboard, só a nível de treino e estudos mesmo, configurado do zero **_(Extras)_**:
+  - Webpack 4+
+  - Webpack Dashboard
   - HTML e CSS gerado automaticamente
   - React 16+
   - Typescript
@@ -29,6 +29,7 @@ Tecnologias utilizadas:
 - React LeaFlet Component
 - React Router Dom
 - IBGE Api
+- React Dropzone
 
 ## Dependencies:
 

@@ -33,19 +33,19 @@ Tecnologias utilizadas:
 - IBGE Api
 - React Dropzone
 
-## Dependencies:
+## Dependências:
 
 - Node.js `>=` v12.16.1;
 
-## Up and running
+## Como executar
 
-- Clone this repository: `git clone git@github.com:luanribeiros/ecoleta.git`;
-- Remove `.git` directory;
-- Install dependencies: `yarn` (or `npm install`);
-- Run yarn `(or`npm start`) to develop on`http://localhost:3000`
-- Run `yarn build` (or `npm run build`) for production build (files will be generated on `build-prod` directory)
+- Clone este repositório: `git clone git@github.com:luanribeiros/ecoleta.git`;
+- Remova `.git` directory;
+- Instale as dependências: `yarn` (ou `npm install`);
+- Execute yarn `(ou`npm start`) para ambiente de desenvolvimento na porta`http://localhost:3000`
+- Execute `yarn build` (ou `npm run build`) para build de produção (or arquivos vão ser gerados no diretório `build-prod`)
 
-## Api Reference
+## Referências da API
 
 [Api IBGE](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-_)
 
@@ -53,10 +53,10 @@ Tecnologias utilizadas:
 
 - UFs: https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-UFs-estadosGet
 
-## Database
+## Base de Dados
 
 Consumindo [api](https://github.com/luanribeiros/ecoleta-api) com o database sqlite
 
-## License
+## Licença
 
 [MIT](https://github.com/luanribeiros/ecoleta-api/blob/master/LICENSE.md) &copy; Luan Ribeiro

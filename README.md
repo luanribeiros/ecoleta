@@ -53,7 +53,7 @@ Tecnologias utilizadas:
 
 ## Database
 
-Consumindo [api]() com o database sqlite
+Consumindo [api](https://github.com/luanribeiros/ecoleta-api) com o database sqlite
 
 ## License
 

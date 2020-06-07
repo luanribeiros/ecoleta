@@ -10,6 +10,8 @@ Recicle! O meio ambiente agradece! ♻️
 
 > Encontre a **Api** desta aplicação [aqui](https://github.com/luanribeiros/ecoleta-api) e o **Mobile** [aqui](https://github.com/luanribeiros/ecoleta-mobile)
 
+![Imagem Home](./.github/home.png)
+
 Tecnologias utilizadas:
 
 - A trilha utilizou create-react-app, mas eu usei o Wepack 4+ and Webpack Dashboard, só a nível de treino e estudos mesmo, configurado do zero **_(Extras)_**:

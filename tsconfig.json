@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "outDir": "./build-prod/",
+    "allowJs": true,
+    "esModuleInterop": true,
+    "lib": ["es2016", "dom"],
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "module": "commonjs",
+    "target": "es6",
+    "jsx": "react",
+    "baseUrl": "./src/",
+    "noImplicitThis": true,
+    "noUnusedParameters": true,
+    "noUnusedLocals": true,
+    "strictNullChecks": true,
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "skipLibCheck": true,
+    "preserveConstEnums": true,
+    "removeComments": true,
+    "paths": {
+      "*.ts": ["*"],
+      "*.tsx": ["*"]
+    }
+  },
+  "include": ["src/**/*", "src/components", "src/custom.d.ts"],
+  "exclude": ["node_modules", "**/*.test.ts", "build-prod"]
+}

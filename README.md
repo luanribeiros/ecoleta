@@ -8,7 +8,7 @@ Essa aplicação foi construída na trilha **Booster** da **Next Level Week** di
 
 Recicle! O meio ambiente agradece! ♻️
 
-> Encontre a **Api** desta aplicação [aqui](https://github.com/luanribeiros/ecoleta-api) e o **Mobile** [aqui]()
+> Encontre a **Api** desta aplicação [aqui](https://github.com/luanribeiros/ecoleta-api) e o **Mobile** [aqui](https://github.com/luanribeiros/ecoleta-mobile)
 
 Tecnologias utilizadas:
 

@@ -14,7 +14,7 @@ Recicle! O meio ambiente agradece! ♻️
 
 Tecnologias utilizadas:
 
-- A trilha utilizou create-react-app, mas eu usei o Wepack 4+ and Webpack Dashboard, só a nível de treino e estudos mesmo, configurado do zero **_(Extras)_**:
+- A trilha utilizou create-react-app, mas eu usei o Webpack 4+, Webpack Dashboard e outros recursos, só a nível de treino e estudos mesmo, configurado do zero **_(Extras)_**:
   - Webpack 4+
   - Webpack Dashboard
   - HTML e CSS gerado automaticamente
